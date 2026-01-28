@@ -1,0 +1,5 @@
+langchain==0.1.0
+langchain-community==0.0.13
+ollama==0.1.6
+duckduckgo-search==4.1.1
+chromadb==0.4.22
